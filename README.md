@@ -30,11 +30,11 @@ This repository provides an in-depth exploration of SQL Injection (SQLi) vulnera
 ## Lab Setup
 1. Installing DVWA:  
    - Download and set up DVWA on a local or virtual server/or use 'Metasploitable-2' machine >> https://download.vulnhub.com/metasploitable/metasploitable-linux-2.0.0.zip
-	>> Download the machine from above link 
-	>> extract it 
-	>> We require 'Virtual Box' like > "VMware Workstation Pro".
+   - Download the machine from above link 
+   - extract it 
+   - We require 'Virtual Box' like > "VMware Workstation Pro".
 		follow the instruction in this video > link- https://youtu.be/m_sSN61S43Y?si=TLv_UoGPqIJCoQLb
-	>> then, open it in 'Metasploitable-2' extracted file with >> 'open a virtual machine' option
+   - then, open it in 'Metasploitable-2' extracted file with >> 'open a virtual machine' option
    - Configure the database and web server as required.
 
 2. Configuring Kali Linux:  
