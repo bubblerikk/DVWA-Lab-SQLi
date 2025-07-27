@@ -1,3 +1,5 @@
+![image-122](https://github.com/user-attachments/assets/99af8af7-3084-4fe9-8940-1ec7c8f8eb4d)
+
 ## SQLi-Sample-Payloads
 
 Here are 10 prominent SQL injection (SQLi) payloads for each technique—Basic, Union-Based, Error-Based, and Blind SQLi—each with explanation and an example. These payloads are typical across MySQL, MSSQL, Oracle, and PostgreSQL targets.
